@@ -1,2 +1,2 @@
-## wchat @
+## wechat @
 
